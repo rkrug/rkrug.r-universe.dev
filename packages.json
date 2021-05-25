@@ -1,6 +1,7 @@
 [
 	{
-		"package" = "plantuml",
-		"url" = "https://github.com/rkrug/plantuml"
+		"package: "plantuml",
+		"url": "https://github.com/rkrug/plantuml",
+		"branch": "master"
 	}
 ]
