@@ -3,5 +3,10 @@
 		"package": "plantuml",
 		"url": "https://github.com/rkrug/plantuml",
 		"branch": "master"
+	},
+	{
+		"package": "openalexPro",
+		"url": "https://github.com/rkrug/openalexPro",
+		"branch": "openalexPro_2"
 	}
 ]
