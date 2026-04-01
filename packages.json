@@ -8,5 +8,10 @@
 		"package": "openalexPro",
 		"url": "https://github.com/rkrug/openalexPro",
 		"branch": "main"
+	},
+	{
+		"package": "openalexVectorComp",
+		"url": "https://github.com/rkrug/openalexVectorComp",
+		"branch": "main"
 	}
 ]
