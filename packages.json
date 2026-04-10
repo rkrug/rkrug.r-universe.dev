@@ -13,5 +13,10 @@
 		"package": "openalexVectorComp",
 		"url": "https://github.com/rkrug/openalexVectorComp",
 		"branch": "main"
+	},
+	{
+		"package": "kagiProp",
+		"url": "https://github.com/rkrug/kagiPro",
+		"branch": "main"
 	}
 ]
