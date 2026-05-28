@@ -5,23 +5,8 @@
 		"branch": "master"
 	},
 	{
-		"package": "openalexPro",
-		"url": "https://github.com/rkrug/openalexPro",
-		"branch": "main"
-	},
-	{
-		"package": "openalexVectorComp",
-		"url": "https://github.com/rkrug/openalexVectorComp",
-		"branch": "main"
-	},
-	{
 		"package": "kagiPro",
 		"url": "https://github.com/rkrug/kagiPro",
-		"branch": "main"
-	},
-	{
-		"package": "openalexSnowball",
-		"url": "https://github.com/rkrug/openalexSnowball",
 		"branch": "main"
 	}
 ]
