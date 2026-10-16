@@ -8,5 +8,10 @@
 		"package": "kagiPro",
 		"url": "https://github.com/rkrug/kagiPro",
 		"branch": "main"
+	},
+	{
+		"package": "zotFunc",
+		"url": "https://github.com/rkrug/zotFunc",
+		"branch": "main"
 	}
 ]
